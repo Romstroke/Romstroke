@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola, soy Romina. Esta es la primera vez que creo un readme aqui. Por fin podré perzonalizar mi GitHub!!!
+
+<img src="https://i.pinimg.com/originals/39/c5/1a/39c51a4bf52962846f0a4f60870b5850.jpg" alt="" srcset="">
 
 <!--
 **Romstroke/Romstroke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
