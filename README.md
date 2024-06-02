@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🌠 Estudio programación FullStack JS en un BootCamp de Talento Digital junto con Desafío Latam
+ 🌠 Estudio programación FullStack JS en un BootCamp de Talento Digital, de la mano de Desafío Latam
  
  🌠 Licenciada en Artes Visuales, Universidad de Chile
 
